@@ -1,0 +1,13 @@
+# Non-project file
+WAD DECODER
+__pycache__
+.vscode
+
+# The file itself
+WAD.BIN
+WAD_US.BIN
+
+# Output
+out
+out_us
+not_used.txt
