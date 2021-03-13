@@ -2490,28 +2490,28 @@ name_list = [
 	"WEAPONS/OBJECTS.PS2",
 	"WEAPONS/TEXTURES.PS2",
 	# Custom
-    "GEN/ANIM.PS2",
-    "GEN/OBJECTS.PS2",
-    "GEN/TEXTURES.PS2",
-    "GROUP2/ANIM.PS2",
-    "GROUP2/OBJECTS.PS2",
-    "GROUP2/TEXTURES.PS2",
+	"GEN/ANIM.PS2",
+	"GEN/OBJECTS.PS2",
+	"GEN/TEXTURES.PS2",
+	"GROUP2/ANIM.PS2",
+	"GROUP2/OBJECTS.PS2",
+	"GROUP2/TEXTURES.PS2",
 
-    # May not be in this release but just in case
-    "TEXT/JAPANESE.ROM",
-    "TEXT/HINTS_J.ROM",
-    "TEXT/SCROLL_J.ROM",
+	# May not be in this release but just in case
+	"TEXT/JAPANESE.ROM",
+	"TEXT/HINTS_J.ROM",
+	"TEXT/SCROLL_J.ROM",
 
-    # PAL release
-    "text/french_all.rom",
-    "text/german_all.rom",
-    "text/english_all.rom",
+	# PAL release
+	"text/french_all.rom",
+	"text/german_all.rom",
+	"text/english_all.rom",
 
-    "audio/model.cmd"
-    "audio/ERRORS.ERR"
+	"audio/model.cmd"
+	"audio/ERRORS.ERR"
 
-    # FRENCH
-    "AUDIO/ARC_f.vbk",
+	# FRENCH
+	"AUDIO/ARC_f.vbk",
 	"AUDIO/AUDATPS2.ROM",
 	"AUDIO/BATTLE_f.vbk",
 	"AUDIO/CASTLE_f.vbk",
@@ -2578,9 +2578,9 @@ name_list = [
 	"AUDIO/WRAITH_f.vbk",
 	"AUDIO/YETI_f.vbk",
 
-    "SHPDATA/SHOP_f.wad",
+	"SHPDATA/SHOP_f.wad",
 
-    "wdata/battle_f.wad",
+	"wdata/battle_f.wad",
 	"wdata/castle_f.wad",
 	"wdata/desert_f.wad",
 	"wdata/dream_f.wad",
@@ -2595,8 +2595,8 @@ name_list = [
 	"wdata/tower_f.wad",
 	"wdata/town_f.wad",
 
-    # GERMAN
-    "AUDIO/ARC_g.vbk",
+	# GERMAN
+	"AUDIO/ARC_g.vbk",
 	"AUDIO/AUDATPS2.ROM",
 	"AUDIO/BATTLE_g.vbk",
 	"AUDIO/CASTLE_g.vbk",
@@ -2663,9 +2663,9 @@ name_list = [
 	"AUDIO/WRAITH_g.vbk",
 	"AUDIO/YETI_g.vbk",
 
-    "SHPDATA/SHOP_g.wad",
+	"SHPDATA/SHOP_g.wad",
 
-    "wdata/battle_g.wad",
+	"wdata/battle_g.wad",
 	"wdata/castle_g.wad",
 	"wdata/desert_g.wad",
 	"wdata/dream_g.wad",
@@ -2680,19 +2680,19 @@ name_list = [
 	"wdata/tower_g.wad",
 	"wdata/town_g.wad",
 
-    # There seems to be WAD file for each texture?
-    "SONY/DATA.ps2",
+	# There seems to be WAD file for each texture?
+	"SONY/DATA.ps2",
 
-    # They seem to have compressed the ps2 drivers (accidental?)
-    "IRX/DCS.IRX",
-    "IRX/LIBSD.IRX",
-    "IRX/MAGICBUS.IRX",
-    "IRX/MCMAN.IRX",
-    "IRX/MCSERV.IRX",
-    "IRX/MTAPMAN.IRX",
-    "IRX/PADMAN.IRX",
-    "IRX/RSPU2DRV.IRX",
-    "IRX/SDRDRV.IRX",
-    "IRX/SIO2MAN.IRX",
-    "IRX/USBD.IRX",
+	# They seem to have compressed the ps2 drivers (accidental?)
+	"IRX/DCS.IRX",
+	"IRX/LIBSD.IRX",
+	"IRX/MAGICBUS.IRX",
+	"IRX/MCMAN.IRX",
+	"IRX/MCSERV.IRX",
+	"IRX/MTAPMAN.IRX",
+	"IRX/PADMAN.IRX",
+	"IRX/RSPU2DRV.IRX",
+	"IRX/SDRDRV.IRX",
+	"IRX/SIO2MAN.IRX",
+	"IRX/USBD.IRX",
 ]
