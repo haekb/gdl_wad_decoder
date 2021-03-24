@@ -34,6 +34,7 @@ def read_table_of_contents(f):
 
 def main():
     print("WAD Decoder by @HeyThereCoffeee")
+    print("For Gauntlet Dark Legacy (PS2)")
     print("Building hash table...")
 
     for name in name_list:
